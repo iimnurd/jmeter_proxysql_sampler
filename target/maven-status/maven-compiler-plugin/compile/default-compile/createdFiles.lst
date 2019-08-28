@@ -1,0 +1,6 @@
+com/alterra/deoxys/proxysql/ProxySQL.class
+com/alterra/deoxys/proxysql/QueryGlobalStats.class
+com/alterra/deoxys/proxysql/QuerySlowSummary.class
+com/alterra/deoxys/proxysql/QueryDigestSampler.class
+com/alterra/deoxys/proxysql/QueryCommandCounters.class
+com/alterra/deoxys/proxysql/QueryDigestResetSampler.class

@@ -1,0 +1,6 @@
+/Users/alterra/eclipse-workspace/jmeter_proxysql_sampler/src/main/java/com/alterra/deoxys/proxysql/QueryDigestResetSampler.java
+/Users/alterra/eclipse-workspace/jmeter_proxysql_sampler/src/main/java/com/alterra/deoxys/proxysql/ProxySQL.java
+/Users/alterra/eclipse-workspace/jmeter_proxysql_sampler/src/main/java/com/alterra/deoxys/proxysql/QueryDigestSampler.java
+/Users/alterra/eclipse-workspace/jmeter_proxysql_sampler/src/main/java/com/alterra/deoxys/proxysql/QueryGlobalStats.java
+/Users/alterra/eclipse-workspace/jmeter_proxysql_sampler/src/main/java/com/alterra/deoxys/proxysql/QueryCommandCounters.java
+/Users/alterra/eclipse-workspace/jmeter_proxysql_sampler/src/main/java/com/alterra/deoxys/proxysql/QuerySlowSummary.java
